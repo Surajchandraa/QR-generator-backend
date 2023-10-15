@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+
+.input{
+    display: flex;
+
+}
+
+
+
+.btn{
+    width: 100px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    margin-left: 30px;
+}
+
+.btn2{
+    width: 130px;
+    height: 70px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+.maincontainer{
+    width: 500px;
+    min-height: 200px;
+    display: flex;
+    margin: 100px 100px;
+
+}
+
+#inp{
+    height: 70px;
+    border-radius: 10px;
+    width: 500px;
+}
+.main{
+    display: flex;
+    
+}
+
+.output{
+    margin-top: 100px;
+    height: 270px;
+    width: 270px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+#image{
+    height: 250px;
+    width: 250px;
+}
+
