@@ -22,14 +22,11 @@ app.post('/generate/url', (req, res) => {
 
 
 app.post('/generate/text',(req,res)=>{
-    const {data} = req.body;app.post('/generate/vCard',(req,res)=>{
         const {data} = req.body;
     
         qr(data,res);
     })
-    qr(data,res);
-})
-
+   
 app.post('/generate/location',(req,res)=>{
     const {data}=req.body;
     qr(data,res)
