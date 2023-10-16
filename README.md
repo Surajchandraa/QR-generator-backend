@@ -21,4 +21,5 @@ This application can generate qr code for (url,email,phone,text,location,sms,eve
 - qr code will be generated you can simply download it also.
 
 ## Picture:
+<img src="https://github.com/Surajchandraa/QR-generator-backend/blob/main/screenshot/Screenshot%20from%202023-10-15%2021-36-38.png" alt="frontend picture">
 
