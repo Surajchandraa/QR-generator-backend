@@ -9,6 +9,7 @@ This application can generate qr code for (url,email,phone,text,location,sms,eve
 - 1.nodejs
 - 2.expressjs
 - 3.qrcode library
+- 4.cors
 
 
 ## How to run this:
